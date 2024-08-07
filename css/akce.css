@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #c5c5c5;
+}
+.nadpis{
+    display: flex;
+    justify-content: center;
+    margin-top: -60px;
+    font-size: 50px;
+}
+.domecek{
+    width: 50px;
+}
+.domecek:hover{
+    opacity: 80%;
+}
+table{
+    display: flex;
+    
+}
+img{
+    width: 300px;
+    padding: 10px;
+}
+
+tr{
+    display:flex;
+    flex-direction: column;
+}
+td{
+    display: flex;
+
+}
+.img:hover{
+    width: 600px;
+    transition: 3s ease;
+}
