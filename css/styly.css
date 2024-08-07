@@ -1,6 +1,6 @@
 @font-face {
     font-family: Thambi;
-    src: url(/fonty/BalooThambi-Regular.ttf);
+    src: url(../fonty/BalooThambi-Regular.ttf);
 }
 html{
     scroll-behavior: smooth;
@@ -13,7 +13,7 @@ body{
     box-sizing: border-box;
 }
 header{
-    background-image: url(/obrazky/kulturakbg.png);
+    background-image: url(../obrazky/kulturakbg.png);
     margin-left: -20px;
     background-size: cover;
     height: 40em;
